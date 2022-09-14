@@ -163,10 +163,6 @@ ul {
     margin: 125px 250px;
 }
 
-.review-text {
-
-}
-
 .review-author {
     font-weight: 600;
     margin-left: auto;
@@ -180,10 +176,6 @@ ul {
     padding: 60px 125px;
     margin: 125px;
     border-radius: 9px;
-}
-
-.left {
-
 }
 
 .banner-heading {
@@ -210,8 +202,4 @@ ul {
     align-items: center;
     padding: 32px;
     color: var(--grey-white);
-}
-
-.footer-text {
-
 }
