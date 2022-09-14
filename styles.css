@@ -24,6 +24,7 @@ body {
     flex-direction: column;
     justify-content: space-between;
     gap: 26px;
+    padding: 12px 125px 125px 125px;
 }
 
 ul {
