@@ -101,9 +101,10 @@ ul {
 }
 
 .trends {
-    display: inherit;
+    display: flex;
     flex-direction: column;
     align-items: center;
+    padding-bottom: 160px;
 }
 
 .trends-heading {
@@ -113,19 +114,25 @@ ul {
 }
 
 .frames-container {
-    display: inherit;
+    display: flex;
+    gap: 80px;
 }
 
 .frames {
-    
+    display: flex;
+    flex-direction: column;
+    width: 160px;
 }
 
 .picture {
-    border: 1px solid var(--light-blue);
+    border: 4px solid var(--light-blue);
+    border-radius: 12px;
+    height: 160px;
 }
 
 .frame-text {
     color: var(--dark-blue-color);
+    text-align: center;
 }
 
 .reviews {
